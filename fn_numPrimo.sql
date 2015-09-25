@@ -1,0 +1,4 @@
+CREATE OR REPLACE FUNCTION numeroPrimo() AS
+	nombre VARCHAR(200);
+BEGIN
+END;
